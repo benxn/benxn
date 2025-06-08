@@ -16,9 +16,6 @@ Welcome to my GitHub! I'm a seasoned backend engineer with over 15 years of expe
 - **DevOps & Cloud:** Docker, GitHub Actions, AWS, Nginx
 - **Domains:** Health-tech, Ed-tech, Payroll, B2B, AI Integration
 
-💼 **Current Work**
-I'm leading backend development at [The Qava Technology Company](#) — driving architecture and delivery across GoLab (health-tech) and Saipris (AI-powered ed-tech platform). I also consult on product strategy, DevOps, and scaling.
-
 💡 **Recent Highlights**
 - Built a FHIR-aligned diagnostic system with Paystack and ICD-10 integrations
 - Automated payroll, microsavings, and task workflows in Staffmate HR
@@ -28,10 +25,8 @@ I'm leading backend development at [The Qava Technology Company](#) — driving 
 I love contributing to meaningful products that solve real infrastructure challenges — especially for African markets with global potential. My mission is to write clean, performant code that drives business growth and product excellence.
 
 📫 **Let’s Connect**
-- 📧 mailbensononoja@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bensonidoko)  
-- 💼 [CV](#)  
-- 🧠 [Projects](https://github.com/benxn)
+- 💼 [CV](#) 
 
 ---
 
